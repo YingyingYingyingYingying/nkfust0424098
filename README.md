@@ -10,6 +10,6 @@ homework
 
 
 [沒人理會的第一科大](https://www.youtube.com/watch?v=nvBOGmvvHhk):octocat:
-![](9.jpg)
+![](a1402a.gif)
 
 :date: 2017/09/14
