@@ -11,4 +11,5 @@ homework
 
 [沒人理會的第一科大](https://www.youtube.com/watch?v=nvBOGmvvHhk):octocat:
 
+http://img.youtube.com/vi/{sjmcBYxMEcU}/1.jpg 
 :date: 2017/09/14
